@@ -1,6 +1,6 @@
 # AGRS – Agricultural Remote Sensing Library (MVP)
 
-## Abstract
+## Description
 
 AGRS is a domain-focused Python library that turns **Sentinel-2 imagery** into **agronomy-ready features** for various agricultural modeling tasks, such as yield modeling, stress analysis, and NPK recommendation.
 
