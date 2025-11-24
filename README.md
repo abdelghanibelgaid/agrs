@@ -1,6 +1,7 @@
 # AGRS – Agricultural Remote Sensing Library
-
+[![PyPI](https://img.shields.io/pypi/v/agrs.svg?label=PyPI)](https://pypi.org/project/agrs/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17699363.svg)](https://doi.org/10.5281/zenodo.17699363)
+
 
 ## Description
 
