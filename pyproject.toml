@@ -1,0 +1,21 @@
+[project]
+name = "agrs"
+version = "0.1.0"
+description = "AGRS – Agricultural Remote Sensing Library"
+authors = [
+  { name = "AGRS Developers" }
+]
+license = { text = "MIT" }
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+  "numpy",
+  "pandas",
+  "geopandas",
+  "shapely",
+  "rasterio",
+  "pystac-client",
+  "planetary-computer",
+  "xarray",
+  "tqdm",
+]
