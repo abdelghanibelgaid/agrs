@@ -1,6 +1,6 @@
 [project]
 name = "agrs"
-version = "0.1.1"
+version = "0.1.2"
 description = "AGRS – Agricultural Remote Sensing Library"
 authors = [
   { name = "AGRS Developers" }
