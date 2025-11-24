@@ -1,5 +1,7 @@
 # AGRS – Agricultural Remote Sensing Library
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17699363.svg)](https://doi.org/10.5281/zenodo.17699363)
+
 ## Description
 
 AGRS is a domain-focused Python library that turns **Sentinel-2 imagery** into **agronomy-ready features** for various agricultural modeling tasks, such as yield modeling, stress analysis, and NPK recommendation.
