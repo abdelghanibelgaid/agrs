@@ -1,4 +1,4 @@
-# AGRS – Agricultural Remote Sensing Library (MVP)
+# AGRS – Agricultural Remote Sensing Library
 
 ## Description
 
