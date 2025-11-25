@@ -1,7 +1,31 @@
 # AGRS – Agricultural Remote Sensing Library
-[![PyPI](https://img.shields.io/pypi/v/agrs.svg?label=PyPI)](https://pypi.org/project/agrs/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17699363.svg)](https://doi.org/10.5281/zenodo.17699363)
 
+<p align="center">
+  <!-- PyPI version -->
+  <a href="https://pypi.org/project/agrs/">
+    <img src="https://img.shields.io/pypi/v/agrs.svg?label=PyPI" alt="PyPI" />
+  </a>
+
+  <!-- DOI -->
+  <a href="https://doi.org/10.5281/zenodo.17699363">
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17699363.svg" alt="DOI" />
+  </a>
+
+  <!-- Security -->
+  <a href="https://socket.dev/pypi/package/agrs">
+    <img src="https://badge.socket.dev/pypi/package/agrs/0.1.3?artifact_id=tar-gz#1764083045680" alt="Socket" />
+  </a>
+
+  <!-- Downloads -->
+  <a href="https://pepy.tech/project/agrs">
+    <img src="https://static.pepy.tech/badge/agrs" alt="Downloads" />
+  </a>
+
+  <!-- License -->
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" />
+  </a>
+</p>
 
 ## Description
 
