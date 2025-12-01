@@ -5,10 +5,7 @@ from agrs.client import s2agc
 field_geom = Point(-8.0, 32.0)
 
 fields = gpd.GeoDataFrame(
-    {
-        "field_id": [1],
-        "geometry": [field_geom],
-    },
+    {"field_id": [1], "geometry": [field_geom]},
     crs="EPSG:4326",
 )
 
@@ -23,9 +20,9 @@ features_df = client.get_features(
     start_date="2018-10-01",
     end_date="2019-06-30",
     crop="wheat",
-    n_snapshots=4,
-    snapshot_strategy="fractional",
-    fractions=[0.3, 0.6, 0.9, 1.0],
+    snapshot_strategy="fractional",   # uses DEFAULT_FRACTIONS (e.g. [0.25, 0.5, 0.75])
+    # fractions=None -> default
+    return_mode="features",           # this is the default
 )
 
 print(features_df.head())
