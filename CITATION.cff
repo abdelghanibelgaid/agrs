@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite this software as follows."
+title: "AGRS: Agricultural Remote Sensing Feature Extraction Library for Sentinel-2"
+doi: "10.5281/zenodo.17699363"
+date-released: "2025-11-24"
+type: "software"
+
+authors:
+  - family-names: "Belgaid"
+    given-names: "Abdelghani"
+    orcid: "https://orcid.org/0000-0002-1581-3958"
+  - family-names: "Mahmoud"
+    given-names: "Zakaria"
+    orcid: "https://orcid.org/0009-0004-6015-325X"
+
+preferred-citation:
+  type: "software"
+  authors:
+    - family-names: "Belgaid"
+      given-names: "Abdelghani"
+    - family-names: "Mahmoud"
+      given-names: "Zakaria"
+  title: "AGRS: Agricultural Remote Sensing Feature Extraction Library for Sentinel-2"
+  doi: "10.5281/zenodo.17699363"
+  month: 11
+  year: 2025
+  url: "https://doi.org/10.5281/zenodo.17699363"
