@@ -6,7 +6,7 @@ README = (ROOT / "README.md").read_text(encoding="utf-8")
 
 setup(
     name="agrs",
-    version="0.1.3",
+    version="0.1.4",
     description="AGRS: Agricultural Remote Sensing Library",
     long_description=README,
     long_description_content_type="text/markdown",
